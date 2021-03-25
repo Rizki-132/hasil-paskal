@@ -1,0 +1,2 @@
+# hasil-paskal
+hasil pascal
